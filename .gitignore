@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+translate-key.json
+.env
