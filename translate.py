@@ -61,7 +61,6 @@ translated_summary = translate_client.translate(summary, target_language=lang_co
 output_data = {
     "headline": headline,
     "translated_headline": translated_headline,
-    "original_text": summary,
     "translated_text": translated_summary,
     "language": target_languages[lang_code],
     "date": date,
