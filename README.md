@@ -129,17 +129,3 @@ This project can be integrated into a web application. Ensure that:
   - Run `echo $GOOGLE_APPLICATION_CREDENTIALS` (Linux/macOS) or `echo %GOOGLE_APPLICATION_CREDENTIALS%` (Windows) to verify.
   - Make sure `load_dotenv()` is correctly called in `translate.py`.
 
----
-
-## **License**
-This project is licensed under the **MIT License**.
-
----
-
-## **Contributing**
-Contributions are welcome! Feel free to **fork the repo** and submit a **pull request**.
-
----
-
-## **Contact**
-For queries or support, reach out to: **[your-email@example.com]**
