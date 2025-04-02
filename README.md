@@ -1,10 +1,10 @@
-# NEWS AVATAR- TRANSLATION
+# LANGUAGE_TRANSLATION
 
 ## Overview
-News Avatar Translation is a Python-based project that translates summarized news into multiple Indian languages using Google Cloud Translation API.
+Language Translation is a Python-based project that translates text into multiple Indian languages using Google Cloud Translation API.
 
 ## Features
-- Translates news summaries from English to various Indian languages.
+- Translates text from English to various Indian languages.
 - Uses Google Cloud Translation API for accurate translations.
 - Supports multiple Indian languages, including Hindi, Telugu, Tamil, Bengali, and more.
 - Secure API authentication using environment variables.
@@ -19,8 +19,8 @@ News Avatar Translation is a Python-based project that translates summarized new
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/News-Avatar-Translation.git
-   cd News-Avatar-Translation
+   git clone https://github.com/your-username/LANGUAGE_TRANSLATION.git
+   cd LANGUAGE_TRANSLATION
    ```
 
 2. **Create a virtual environment (optional but recommended)**
@@ -50,7 +50,7 @@ News Avatar Translation is a Python-based project that translates summarized new
    ```
 
 2. **Provide input**
-   - Enter the summarized news in English.
+   - Enter the text in English.
    - Select a target language from the list by entering the corresponding language code.
 
 3. **Get the translation**
